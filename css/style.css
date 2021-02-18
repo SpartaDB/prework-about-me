@@ -28,8 +28,9 @@ body {
 
 .masthead-intro {
     margin-bottom: 0.1em;
-    font-size: 2em;
-    color: hsl(300, 60%, 50%);
+    font-weight: bold;
+    font-size: 4em;
+    color: hsl(0%, 0%, 100%);
 }
 
 .masthead-heading {
@@ -38,7 +39,7 @@ body {
     font-size: 6em;
     letter-spacing: -0.02em;
     text-transform: uppercase;
-    color: hsl(300, 60%, 50%);
+    color: hsl(0%, 0%, 100%);
 }
 
 .details {
